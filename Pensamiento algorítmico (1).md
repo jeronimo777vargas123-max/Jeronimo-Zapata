@@ -32,20 +32,78 @@ Son bloque de códigos reutilizables que realizan una tarea específica. Puede r
 
 Código Python:
 
+ PENSAMIENTO ALGORÍTMICO – UNIDAD 1
+ 
+# ----------- VARIABLES Y TIPOS DE DATOS -----------
+# Una variable almacena información que puede cambiar.
+nombre = "Jerónimo"       # Tipo de dato: string (texto)
+edad = 19              # Tipo de dato: entero (int)
+altura = 1.60          # Tipo de dato: flotante (float)
+es_estudiante = True    # Tipo de dato: booleano (True/False)
 
-def calcular_area(base, altura):
-    area = base * altura
-    return area
-    
-base = float(input("Ingresa la base del rectángulo: "))
-altura = float(input("Ingresa la altura del rectángulo: "))
+# ----------- OPERADORES -----------
+# Operadores matemáticos
+suma = edad + 8         # suma
+resta = edad - 4        # resta
+multiplicacion = edad * 3
+division = edad / 3
 
-resultado = calcular_area(base, altura)
+# Operadores de comparación
+mayor_edad = edad >= 18   # devuelve True o False
 
-print(f"El área del rectángulo es {resultado}")
+# Operadores lógicos
+puede_entrar = mayor_edad and es_estudiante  # True si ambas condiciones son verdaderas
+
+# ----------- FUNCIONES -----------
+# Una función es un bloque de código reutilizable que realiza una tarea.
+
+def saludar(nombre_usuario):
+    """
+    Esta función recibe un valor (nombre_usuario) y lo usa para generar un saludo.
+    """
+    print("Hola", nombre_usuario, "¡Bienvenido al mundo de Python!")
+
+def calcular_promedio(n1, n2, n3):
+    """
+    Esta función recibe 3 números, calcula el promedio y lo devuelve.
+    """
+    promedio = (n1 + n2 + n3) / 3
+    return promedio
+
+# ----------- EJECUCIÓN DEL PROGRAMA -----------
+saludar(nombre)  # Llamamos la función saludar
+
+promedio_notas = calcular_promedio(4.5, 3.8, 5.0)
+print("El promedio de tus notas es:", promedio_notas)
+
+# Usamos una condición lógica
+if mayor_edad:
+    print("Eres mayor de edad.")
+else:
+    print("Eres menor de edad.")
+
+print("¿Puedes entrar al laboratorio?:", puede_entrar)
+
+# Información sobre hardware/software (solo texto para explicar)
+print("\nHARDWARE es la parte física del computador.")
+print("SOFTWARE es el conjunto de programas que ejecuta el hardware.")
+print("Un LENGUAJE DE PROGRAMACIÓN permite dar instrucciones a la computadora.")
+✅ Qué muestra este código:
+
+Variables y diferentes tipos de datos
+
+Operaciones matemáticas, comparaciones y lógicas
+
+Funciones con parámetros y retorno
+
+Estructuras básicas de un programa
+
+Relación con los conce
+
 
 Reflexión:
 En la primera unidad aprendí como los programas se construyen a partir de instrucciones simples y lógicas y como el pensamiento algorítmico nos ayuda a resolver problemas paso a paso. 
 Me pareció interesante como algo tan simple como una variable puede ser la base para construir proyectos mucho más complejos.
+
 
 
