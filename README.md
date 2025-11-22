@@ -19,12 +19,16 @@ git clone --https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/
 ````
 
 **imagenes complementarias de la actividad tortuga...*
+
 ````
+
 clon git -- https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Captura%20de%20pantalla%202025-11-21%20211036.png
 
 clon git -- https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Captura%20de%20pantalla%202025-11-21%20211230.png
 
 clon git -- https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Captura%20de%20pantalla%202025-11-21%20211321.png
+
+````
 
 
 
