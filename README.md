@@ -15,8 +15,8 @@
 ````
 git clone -- https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Pensamiento%20algorítmico%20(1).md
 
-* {Implementando la libreria de la tortuga desde cero}(./My-Primera-pagina-
-/Turtle actividad 2
+* [Implementando la libreria de la tortuga desde cero](My-Primera-pagina-
+/Turtle actividad 2)
 
 git clone --https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Turtle%20actividad%202
 ````
