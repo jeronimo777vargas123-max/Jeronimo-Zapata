@@ -1,0 +1,34 @@
+import turtle
+
+t = turtle.Turtle()
+t.shape("turtle") crea la imagen de una tortuga 
+t.pencolor("red") hace lineas del color rojo 
+t.pensize(6)      define el grosor de la linea 
+
+t.forward(50)     avanza 50 pasos 
+t.right(90)       gira 90 grados hacia la derecha 
+t.forward(50)     avanza 50 pasos 
+t.left(90)        gira 90 grados hacia la izquirda
+t.forward(50)     avanza 50 pasos 
+t.right(90)       gira 90 grados hacia la derecha 
+t.forward(50)     avanza 50 pasos 
+t.left(90)        gira 90 grados hacia la izquieda 
+t.forward(50)     avanza 50 pasos 
+t.right(90)       gira 90 grados hacia la derecha 
+t.forward(50)     avanza 50 pasos 
+t.left(90)        gira 90 grados hacia la izquierda
+t.forward(50)     avanza 50 pasos 
+t.right(90)       gira 90 grados hacia la derecha 
+t.forward(50)     avanza 50 pasos 
+t.left(90)        gira 90 grados hacia la izquierda 
+t.forward(50)     avanza 50 pasos 
+t.right(90)       gira 90 grados hacia la derecha 
+t.forward(50)     avanza 50 pasos 
+t.left(90)        gira 90 grados hacia la izquierda 
+t.forward(50)     avanza 50 pasos 
+t.right(90)       gira 90 grados hacia la derecha 
+t.forward(50)     avanza 50 pasos 
+t.left(90)        gira 90 grados izquierda 
+t.forward(50)     avanza 50 pasos 
+
+turtle.done()
