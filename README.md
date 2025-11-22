@@ -13,13 +13,18 @@ Me interesa el desarrollo web, la inteligencia artificial y la automatización d
 Proyectos destacados:
 
 Pensamiento algoritmico unidad 1 
+
 https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Pensamiento%20algor%C3%ADtmico%20(1).md
+
 https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Turtle%20actividad%202
 
 
 imagenes complementarias de la tortuga
+
 https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Captura%20de%20pantalla%202025-11-21%20211036.png
+
 https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Captura%20de%20pantalla%202025-11-21%20211230.png
+
 https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Captura%20de%20pantalla%202025-11-21%20211321.png
 
 
