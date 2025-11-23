@@ -10,7 +10,7 @@
 - Me interesa el desarrollo web, la inteligencia artificial y la automatización de procesos.
 
 
-**Proyectos destacados...*
+*Proyectos destacados...*
 
 ````
 https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Pensamiento%20algor%C3%ADtmico%20(1).md
@@ -21,7 +21,7 @@ https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/tarea%2
 
 ````
 
-**Imagenes complementarias de turtle...*
+*Imagenes complementarias de turtle...*
 
 ````
 
