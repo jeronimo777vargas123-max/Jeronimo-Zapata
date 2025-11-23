@@ -13,23 +13,19 @@
 **Proyectos destacados...*
 
 ````
-Pensamiento algorítmico (1).md
+https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Pensamiento%20algor%C3%ADtmico%20(1).md
 
-Turtle actividad 2
+https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Turtle%20actividad%202
 
-tarea 2 tortuga.py
-
-````
-
-**imagenes complementarias de la actividad tortuga...*
+https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/tarea%202%20tortuga.py
 
 ````
 
-Captura de pantalla 2025-11-21 211036.png
+https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Captura%20de%20pantalla%202025-11-21%20211036.png
 
-Captura de pantalla 2025-11-21 211230.png
+https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Captura%20de%20pantalla%202025-11-21%20211230.png
 
-Captura de pantalla 2025-11-21 211321.png
+https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Captura%20de%20pantalla%202025-11-21%20211321.png
 
 ````
 
