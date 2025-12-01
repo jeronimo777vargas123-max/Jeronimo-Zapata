@@ -1,0 +1,21 @@
+import turtle
+
+t = turtle.Turtle()
+t.shape("turtle")
+t.pencolor("blue")
+t.pensize(3)
+
+def adelante():
+    pasos = int(input("Ingrese el número de pasos hacia adelante: "))
+    t.forward(pasos)
+
+def abajo():
+    pasos = int(input("Ingrese el número de pasos hacia abajo: "))
+    t.right(90)
+    t.forward(pasos)
+    t.left(90)
+
+adelante()
+abajo()
+
+turtle.done()
