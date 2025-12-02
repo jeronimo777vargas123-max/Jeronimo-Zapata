@@ -5,17 +5,21 @@ t.shape("turtle")
 t.pencolor("blue")
 t.pensize(3)
 
-def adelante():
-    pasos = int(input("5 pasos hacia adelante: "))
-    t.forward(pasos)
+# Pedir valores solo una vez
+pasos_adelante = int(turtle.textinput("Movimiento", "Pasos hacia adelante:"))
+pasos_abajo = int(turtle.textinput("Movimiento", "Pasos hacia abajo:"))
+escalones = int(turtle.textinput("Movimiento", "¿Cuántos escalones quieres?"))
 
-def abajo():
-    pasos = int(input("5 pasos hacia abajo: "))
+# Hacer la escalera
+for i in range(escalones):
+    # Avanzar horizontal
+    t.forward(pasos_adelante)
+    
+    # Bajar
     t.right(90)
-    t.forward(pasos)
-    t.left(90)
+    t.forward(pasos_abajo)
 
-adelante()
-abajo()
+    # Volver a mirar hacia la derecha (posición inicial del escalón)
+    t.left(90)
 
 turtle.done()
