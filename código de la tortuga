@@ -1,3 +1,7 @@
+# Codigo de la tortuga 
+
+en esta actividad realizamos nuestra propia version del juego de la tortuga en python 
+
 tortuga = "🐢"
 espacios = ""
 
