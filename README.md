@@ -13,11 +13,7 @@
 *Proyectos destacados...*
 
 ````
-https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Pensamiento%20algor%C3%ADtmico%20(1).md
-
-
-https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/tortuga
-
+https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/turtle%20actividad%20corregida
 
 ````
 
