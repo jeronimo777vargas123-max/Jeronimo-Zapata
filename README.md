@@ -33,12 +33,5 @@ https://github.com/jeronimo777vargas123-max/My-Primera-pagina-/blob/main/Captura
 
 ````
 
-🎨🎨Designer
-Maintained
-📈📈Website Stats
-Feedback
-Made with
-GitHub Stats
-
 
 
